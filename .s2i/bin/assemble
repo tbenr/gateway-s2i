@@ -1,3 +1,5 @@
 cd /tmp/src
 
-./gradlew
+echo pluto
+
+# ./gradlew
