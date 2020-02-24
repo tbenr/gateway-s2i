@@ -4,9 +4,4 @@ cd /tmp/src
 
 ./gradlew clean build
 
-pwd
-
-echo "1"
-ls -lR *
-
-cp build/gateway/deployment-0.8.0.gw7 /opt/docker/rc.d/deployment.gw7
+cp deployment/build/gateway/deployment-0.8.0.gw7 /opt/docker/rc.d/deployment.gw7
