@@ -2,6 +2,6 @@
 
 cd /tmp/src
 
-./gradlew
+./gradlew clean build
 
 cp build/gateway/deployment-0.8.0.gw7 /opt/docker/rc.d/deployment.gw7
