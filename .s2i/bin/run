@@ -1,4 +1,2 @@
 #!/bin/bash
-whoami
-pwd
 exec /opt/docker/entrypoint.sh
