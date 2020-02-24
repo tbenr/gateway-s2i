@@ -1,1 +1,3 @@
-/usr/local/bin/dumb-init -- /opt/docker/entrypoint.sh
+whoami
+pwd
+/opt/docker/entrypoint.sh
