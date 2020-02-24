@@ -1,5 +1,4 @@
 #!/bin/bash
-
 whoami
 pwd
-#/opt/docker/entrypoint.sh
+exec /opt/docker/entrypoint.sh
